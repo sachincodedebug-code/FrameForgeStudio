@@ -1,0 +1,8 @@
+{
+  "name": "FIlmForgeStudio",
+  "description": "A dark theatre cinema platform where admins upload short films and configure payment QR codes, and users browse the film catalog, filter by runtime, and unlock permanent film ownership.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
